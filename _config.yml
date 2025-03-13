@@ -41,7 +41,7 @@ minima:
   # be rendered.
   nav_pages:
     - about.md
-    - yzyh.html
+    - 2025-1-1-yzyh.html
 
   # Set to `true` to show excerpts on the homepage.
   #show_excerpts: false
