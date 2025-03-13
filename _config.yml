@@ -41,8 +41,8 @@ minima:
   # be rendered.
   nav_pages:
     - about.md
-    - _posts/2025-1-1-yzyh.html
-    - _posts/welcome-to-jekyll.md
+    - post/2025-1-1-yzyh.html
+    - post/welcome-to-jekyll.md
 
   # Set to `true` to show excerpts on the homepage.
   #show_excerpts: false
