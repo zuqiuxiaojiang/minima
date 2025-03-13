@@ -41,6 +41,7 @@ minima:
   # be rendered.
   nav_pages:
     - about.md
+    - 404.html
     - _posts/2025-1-1-yzyh.html
     - _posts/2016-05-20-welcome-to-jekyll.md
 
